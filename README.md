@@ -21,7 +21,7 @@ I'm passionate about building scalable applications, architecting cloud solution
 
 ## 🎯 Current Focus
 
-- 🚀 Salesforce Development (PD1, PD2, Admin, Commerce Cloud certified)
+- 🚀 Salesforce Development (PD1, PD2, Admin, JS, Agentforce certified)
 - ☁️ AWS Cloud Architecture & Serverless Computing
 - 🤖 AI/ML Engineering & LLM Implementations
 - 🌐 Full-stack Web Development
