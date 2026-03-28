@@ -133,7 +133,6 @@ I'm always interested in:
 - 🔗 Building developer networks
 
 **Reach out to me:**
-- 📧 Email: [your-email@example.com] (add your email)
 - 💼 LinkedIn: [linkedin.com/in/eduanmoldeep](https://linkedin.com/in/eduanmoldeep)
 - 🐦 Twitter: [@Anmoldeep1509](https://twitter.com/Anmoldeep1509)
 - 📍 Location: Nagpur, Maharashtra, India
